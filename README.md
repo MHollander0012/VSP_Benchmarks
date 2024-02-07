@@ -1,3 +1,4 @@
 # VSP Benchmarks
 
-[![Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=qeVro4sSe2DTR4aZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>

@@ -1,6 +1,3 @@
 # VSP Benchmarks
 
-<iframe 
-  src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=MAr3OOwqN8ae0stx" 
-  style="width:560px; height:315px;"
-</iframe>
+[![Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

@@ -1,1 +1,5 @@
-
+title: VSP Benchmarks
+logo: /assets/img/paper-plane-icon-vector.jpg
+#description: text below image
+show_downloads: true
+theme: Jekyll-theme-minimal
